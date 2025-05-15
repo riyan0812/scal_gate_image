@@ -20,7 +20,7 @@ STOP_LOSS_PERCENT = 0.3
 CHART_CANDLE_COUNT = 50  # Jumlah candle pada chart
 
 # Discord Config
-DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1372589339040546836/lA_oauH6tmlAEwAVdBY3obj1e3vD9N2MkI5dd8EmJSF43C8NWd1sWzWUPcvVgUsXjdbZ'
+DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/xxxxxxxxxxxxxxxx' 
 
 # Setup Exchange - Gate.io
 exchange = ccxt.gate({
